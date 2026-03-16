@@ -1,4 +1,8 @@
 #!/usr/bin/env python
 print("Hello world!")
-time.sleep()
+
+lst = 'Karin says hi,'
+for i in range 20:
+	time.sleep(1)
+	lst += ' and bye, Karin says ..'
 
